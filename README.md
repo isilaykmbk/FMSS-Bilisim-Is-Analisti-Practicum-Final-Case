@@ -1,3 +1,3 @@
 # FMSS-Bilisim-Is-Analisti-Practicum-Final-Case
 
-1 Aylık İş Analistliği Bootcamp'inden sonra İş Analistliği hakkında öğrendiğim tüm bilgileri kullandığım bir çalışma oldu.
+It was a study in which I used all the information I learned about Business Analyst after the 1-Month Business Analyst Bootcamp.
